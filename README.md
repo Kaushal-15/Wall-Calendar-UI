@@ -30,6 +30,8 @@ An ultra-premium, highly tactile web-based calendar application inspired by phys
 ----> DARK THEME <----
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/a3115520-fb4b-489e-ae38-8463ba7c404a" />
 
+----> Implemenation image of the Features  <----
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/5282ae03-6763-4e33-bbac-5512b1b1c73b" />
 
 ## 💻 How to Run Locally
 
