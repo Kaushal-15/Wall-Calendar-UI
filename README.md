@@ -15,12 +15,21 @@ An ultra-premium, highly tactile web-based calendar application inspired by phys
   - **Top 3 Priorities:** A dedicated section enforcing strict priority management, complete with a visual completion progress meter.
   - **Habit Tracker:** Scoped daily habits independent of standard priorities.
   - **Persistent, Month-Scoped Storage:** Built on a custom custom `storage.js` localized engine. Priorities and notes are tightly scoped to the specific `year-month-targetDate` keys so data never bleeds across selections.
+  - **Page Flip Animation with effects and real Audio experience of the page flip has also been added and also shown in the Video Demo also.**
 
 ## 🛠️ Technology Stack & Design Choices
 - **React.js (Create React App):** For robust component modularity and precise state control across month flips and date-range logic.
 - **Tailwind CSS:** Selected for highly sophisticated styling. The UI eschews simple blocks for a "printed paper" aesthetic—incorporating SVG noise filters, `mix-blend` shadows, and rim lighting.
 - **Framer Motion:** Drives the incredibly smooth mounting, layout shifts, selection ring bounces, and UI transitions across the interface.
 - **Date-Fns:** Ensures mathematically precise calendar logic without the bundle-heavy weight of monolithic date libraries.
+
+
+## Screenshots
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/ab16b38f-1b17-41ee-a694-3e3d87e83220" />
+
+----> DARK THEME <----
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/a3115520-fb4b-489e-ae38-8463ba7c404a" />
+
 
 ## 💻 How to Run Locally
 
