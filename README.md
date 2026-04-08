@@ -3,7 +3,8 @@
 An ultra-premium, highly tactile web-based calendar application inspired by physical designer wall calendars. This project evolves the traditional "SaaS-style" date picker into an immersive, skeuomorphic productivity tool.
 
 ## 🚀 Live Demo & Demonstration
-- **Live Demo (Vercel):** *[Insert your Vercel/Netlify link here]*
+- **Live Demo (Vercel): https://wall-calendar-ui-two.vercel.app/
+
 - **Video Walkthrough:** *[Insert your Loom/YouTube link here]*
 
 ## ✨ Core Features
