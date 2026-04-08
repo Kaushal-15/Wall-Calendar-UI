@@ -29,7 +29,7 @@ export function HeroSection({ currentMonth, onPrev, onNext }) {
   // Try local images with different extensions before falling back to Unsplash
   const imageSrc = imageError 
     ? `https://images.unsplash.com/photo-${seasonalImagesUnsplash[currentMonthIndex]}?auto=format&fit=crop&w=1200&q=80`
-    : `/IMG/${currentMonthIndex === 3 ? 5 : currentMonthIndex + 1}${exts[extIndex]}`;
+    : `${process.env.PUBLIC_URL}/IMG/${currentMonthIndex === 3 ? 5 : currentMonthIndex + 1}${exts[extIndex]}`;
 
   useEffect(() => {
     setIsLoaded(false);

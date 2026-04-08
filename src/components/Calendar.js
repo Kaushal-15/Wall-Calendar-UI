@@ -71,7 +71,7 @@ export function Calendar({ currentMonth, setCurrentMonth }) {
       {/* Hidden Audio Element for Flip Sound */}
       <audio 
         ref={audioRef} 
-        src="/IMG/AUDIO.mp3" 
+        src={`${process.env.PUBLIC_URL}/IMG/AUDIO.mp3`}
         preload="auto" 
       />
       
