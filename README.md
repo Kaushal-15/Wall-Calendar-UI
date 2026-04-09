@@ -5,7 +5,7 @@ An ultra-premium, highly tactile web-based calendar application inspired by phys
 ## 🚀 Live Demo & Demonstration
 - **Live Demo (Vercel): https://wall-calendar-ui-two.vercel.app/
 
-- **Video Walkthrough:** *[Insert your Loom/YouTube link here]*
+- **Video Walkthrough:** https://drive.google.com/file/d/1lPJYBjDmXyHtrdkYQYHJ5fWStaQndelD/view?usp=sharing
 
 ## ✨ Core Features
 - **3D Page Flip Mechanics:** Features a highly refined 3D CSS physics engine. When users flip months, the page practically "lifts" utilizing `translateZ`, casting dynamic drop-shadows and playing a crisp paper-flip acoustic sound.
